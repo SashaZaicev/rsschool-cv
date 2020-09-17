@@ -1,23 +1,33 @@
-resume
-Aliaksandr Zaicev
-Contacts:
-github
+# resume
+ 
+## Aliaksandr Zaicev
+ 
+### Contacts:
 
-telegram
+[github](https://github.com/SashaZaicev)
 
-vk
+[telegram](https://t.me/sashazaitsau)
 
-ABOUT ME:
-Good day!
+[vk](https://vk.com/id53738228)
 
-My name is Aliaksandr.
+### ABOUT ME:
 
-This is my second visit to RS, I'm glad to get into your project. I can’t serve myself badly, but know I’m cool and sociable!
+Good day! 
 
-SKILLS:
-I play basketball
-I find people approaching
-I love to sleep and quickly fall asleep
-I don't give up on life
-I find a solution to problems
-I very patient
+My name is Aliaksandr. 
+
+This is my second visit to RS, I'm glad to get into your project. 
+I can’t serve myself badly, but know I’m cool and sociable!
+
+### SKILLS:
+
+* I play basketball
+* I find people approaching
+* I love to sleep and quickly fall asleep
+* I don't give up on life
+* I find a solution to problems
+* I very patient
+
+### CODE EXAMPLES:
+
+[portfolio](https://sashazaicev.github.io/portfolio-zaicev/)
