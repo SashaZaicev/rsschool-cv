@@ -31,3 +31,11 @@ I can’t serve myself badly, but know I’m cool and sociable!
 ### CODE EXAMPLES:
 
 [portfolio](https://sashazaicev.github.io/portfolio-zaicev/)
+
+### EXPERIENCE:
+
+Experience is html, css, js, react. And now I am in the mood for change of life.
+
+### EDUCATION:
+
+Behind shoulders college, university and a bunch of courses :)
