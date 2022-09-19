@@ -27,3 +27,7 @@ I can’t serve myself badly, but know I’m cool and sociable!
 * I don't give up on life
 * I find a solution to problems
 * I very patient
+
+### CODE EXAMPLES:
+
+[portfolio](https://sashazaicev.github.io/portfolio-zaicev/)
